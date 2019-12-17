@@ -1,1 +1,3 @@
 # MyNewRepository
+
+Mano sukurta repozitorija
